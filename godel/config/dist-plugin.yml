@@ -1,0 +1,10 @@
+products:
+  project:
+    dist:
+      disters:
+        type: manual
+        config:
+          extension: tgz
+        script: |
+          #!/usr/bin/env bash
+          echo "hi"
